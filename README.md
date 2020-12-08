@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning React , GraphQL.
 - 🎓 Graduated with Bachelor of Science In Information Technology from Mumbai University
 - 💼 Looking for NodeJS Developer and Full-Stack MERN Developer Job Role.
-- 📫 How to reach me: [Sumit Kachare](www.linkedin.com/in/sumit-kachare).
+- 📫 How to reach me: [Sumit Kachare](https://www.linkedin.com/in/sumit-kachare/).
